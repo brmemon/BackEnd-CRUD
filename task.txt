@@ -9,8 +9,16 @@ Dynamic Path Parameters
 Get api/users/:id
 :id -> Variable | Dynamic
 
-POST /api/users - C reate new user
+POST /api/users - Create new user
 
 PATCH /api/users/1 - Edit the user with ID 1
 
 DELETE /api/users/1 - Delete the user with ID 1
+
+
+
+
+////////     how to work mongoose   ////////
+schema - define the structure
+   schema modal 
+   using model we do CRUD opreation 
